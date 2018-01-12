@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Parental Update</string>
+
+    <string name="FACEBOOK_APP_ID">140933689903733</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">2ead8c922b013bcd58f327776d03d506</string>
+    <string name="ak_login_protocol_scheme">ak140933689903733</string>
+    <string name="fb_login_protocol_scheme">fb140933689903733</string>
+
+
+    <string name="login_label">Email or Phone Number</string>
+    <string name="accountkit_button_label">Continue</string>
+
+
+
+    <string name="login_email_label">Login with Email</string>
+    <string name="login_phone_label">Login with Phone Number</string>
+    <string name="location_label">Location</string>
+    <string name="search_label">Where are you headed?</string>
+    <string name="visited_today">visited today</string>
+    <string name="friends">Find Friends</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="no_friends">No friends found</string>
+    <string name="location_permission_message">Parental Update would like acces to your user location.</string>
+    <string name="permission_message">Parental Update requires permission to access your Facebook friend list to use Find Friends</string>
+
+
+
+
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+    <string name="logout_label">Log Out</string>
+</resources>
